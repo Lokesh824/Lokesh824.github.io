@@ -9,7 +9,7 @@ a:hover {
   color: #A3BE8C;
 }
 
-.tools a:hover
+a.tools:hover
 {
     color:#DDD;
 }

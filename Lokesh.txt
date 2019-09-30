@@ -1,0 +1,129 @@
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+
+$ ls 
+
+about-me.txt
+skills.md
+projects.md
+contact-me.md
+certifications.md
+awards-and-recognitions.txt
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ cat about-me.txt
+
+Hi I am Lokesh Kumar. I am an energetic software engineer having 1.4 years of experience in building robust code for next generation applications with a can-do attitude. 
+I enjoy learning new things and can assimilate new ideas to the problems quickly.
+I am a tech enthusiast and a strong believer of solving any problem in hand with innovation.
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ du -sh skills.md
+<span id="r">300 TB skills.md</span>
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ skp-md-viewer skills.md
+
+
+<div id="lang" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
+<span class="list-group-item " style="background-color: #A3BE8C; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Languages/Frameworks </center></span>
+&nbsp;&nbsp;&nbsp; Python<br>
+&nbsp;&nbsp;&nbsp; C# <br>                                     
+&nbsp;&nbsp;&nbsp; ASP.Net <br>
+&nbsp;&nbsp;&nbsp; MVC <br>
+&nbsp;&nbsp;&nbsp; Signal R          <br>   
+&nbsp;&nbsp;&nbsp; C          <br>   
+&nbsp;&nbsp;&nbsp; C++         <br>
+&nbsp;&nbsp;&nbsp; Javascript         <br>   
+&nbsp;&nbsp;&nbsp; Ajax <br>   
+</div>
+
+<div id="tools" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;">
+<span class="list-group-item " style="background-color: lightblue; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Tools </center></span>
+&nbsp;&nbsp;&nbsp; Visual Studio 2015<br>
+&nbsp;&nbsp;&nbsp; PyCharm <br>                                     
+&nbsp;&nbsp;&nbsp; Spyder <br>
+&nbsp;&nbsp;&nbsp; Jupyter <br>
+&nbsp;&nbsp;&nbsp; Visual Studio Code<br>   
+</div>
+ 
+ <div id="db" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
+<span class="list-group-item " style="background-color: #66FFC4; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Database</center></span>
+&nbsp;&nbsp;&nbsp; SQL Server 2012<br>
+</div>
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ skp-md-viewer projects.md
+
+<div id="projects" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;">
+<span class="list-group-item " style="background-color: #DAF7A6; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Projects </center></span>
+&nbsp;&nbsp;&nbsp; Technical Discussion Forum.<br>
+&nbsp;&nbsp;&nbsp; Automatic Email generations. <br>                                     
+&nbsp;&nbsp;&nbsp; IMGurukul. <br>
+&nbsp;&nbsp;&nbsp; Smart Ambulance System.<br>
+&nbsp;&nbsp;&nbsp; Home Automation.          <br>                                           
+</div>
+
+<div id="Petprojects" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 650px;">   
+    <span class="list-group-item " style="background-color: #d08770; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center> A few of my pet projects </center></span>
+     &nbsp;&nbsp;&nbsp; IncomeGroupClassification(KNN).<br>
+     &nbsp;&nbsp;&nbsp; Customer Loan Classification(RandomForest and Decision Trees).<br>
+     &nbsp;&nbsp;&nbsp; Gausian Naive Bayes (Admission Predection).<br>
+     &nbsp;&nbsp;&nbsp; SalaryPredections(LinearRegression).<br>
+     &nbsp;&nbsp;&nbsp; StartupProfitCalculation(MultipleLinearRegression).<br>
+     &nbsp;&nbsp;&nbsp; TShirtSizePredection(KNN).<br>
+     &nbsp;&nbsp;&nbsp;  USAHousePricePredections(KFoldCrossValidation).
+    <br>
+</div>
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ cat certifications.md
+
+* Machine Learning A-Z from Udemy (Credential ID UC-457KDOFO)
+* Introduction to Python from DataCamp (Credential ID #1305041)
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ cat awards-and-recognitions.txt
+
+<pre _ngcontent-cau-c0="" style="overflow: hidden; background-color: #293846; color: white; border: none">  ___________          ___________                                     
+ '._==_==_=_.'        '._==_==_=_.'        
+ .-\:      /-.        .-\:      /-.        
+| (|:.     |) |      | (|:.     |) |       
+ '-|:.     |-'        '-|:.     |-'        
+   \::.    /            \::.    /          
+    '::. .'              '::. .'           
+      ) (                  ) (             
+    _.' '._              _.' '._           
+   `"""""""`            `"""""""`</pre>
+
+* One among the top contributers for Google Translate campaign (Aug 2017).
+
+* REMIBAI JEPPIAR SCHOLARSHIP  (Mar 2018), Sathyabama University.
+&nbsp; &nbsp;          -> Awarded with a Merit Scholarship for the Academic Year 2017-2018.
+
+* REMIBAI JEPPIAR SCHOLARSHIP  (Mar 2017), Sathyabama University.
+ &nbsp; &nbsp;         -> Awarded with a Merit Scholarship for the Academic Year 2016-2017.
+
+* REMIBAI JEPPIAR SCHOLARSHIP  (Mar 2016, Sathyabama University).
+ &nbsp; &nbsp;         -> Awarded with a Merit Scholarship for the Academic Year 2015-2016.
+  
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ skp-md-viewer contact-me.md
+
+<div id="lang" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
+<span class="list-group-item " style="background-color: #A3BE8C; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Professional </center></span>
+&nbsp;&nbsp;&nbsp; <a href="">Github</a><br>
+&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lokesh-kumar-abb12a104/">LinkedIn</a><br>
+</div>
+
+<div id="lang" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
+<span class="list-group-item " style="background-color: #A3BE8C; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Personal </center></span>
+&nbsp;&nbsp;&nbsp; <a href="">Facebook</a><br>
+&nbsp;&nbsp;&nbsp; <a href="">Instagram</a><br>
+</div>
+
+<span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
+$ exit
+
+
+

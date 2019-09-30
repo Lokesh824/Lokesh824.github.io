@@ -4,19 +4,27 @@ body {
 }
 a {
     text-decoration: none !important;
+    color: white;
 }
 contact:hover {
   color: #A3BE8C;
 }
-.contact {
-  color: white;
+PetProj:hover {
+ color: #daecbb;
 }
-.PetProj: hover {
- color: #daecbb
+Proj:hover{
+color: #daecbb;
 }
-.PetProj {
-  color: white;
+Database:hover{
+color: #b7e4d3;
 }
+tools:hover{
+color: lightblue;
+}
+lang:hover{
+color: #A3BE8C;
+}
+
 .list-group-item {
     position: relative;
     display: block;

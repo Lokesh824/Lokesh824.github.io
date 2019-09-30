@@ -11,30 +11,7 @@ contact:hover {
 .contact {
   color: white;
 }
-PetProj:hover {
- color: #daecbb
-}
-.PetProj {
-  color: white;
-}
-Database:hover{
-color: #b7e4d3;
-}
-.Database {
-  color: white;
-}
-tools:hover{
-color: lightblue;
-}
-.tools {
-  color: white;
-}
-lang:hover{
-color: #A3BE8C;
-}
-.lang {
-  color: white;
-}
+
 .list-group-item {
     position: relative;
     display: block;

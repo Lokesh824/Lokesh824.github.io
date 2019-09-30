@@ -47,7 +47,7 @@ $ skp-md-viewer skills.md
 </div>
  
 <div id="db" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
-<span class="list-group-item " style="background-color: #66FFC4; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Database</center></span>
+<span class="list-group-item " style="background-color: #b7e4d3; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Database</center></span>
 &nbsp;&nbsp;&nbsp; SQL Server 2012<br>
 </div>
 
@@ -55,7 +55,7 @@ $ skp-md-viewer skills.md
 $ skp-md-viewer projects.md
 
 <div id="projects" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;">
-<span class="list-group-item " style="background-color: #DAF7A6; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Projects </center></span>
+<span class="list-group-item " style="background-color: #daecbb; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Projects </center></span>
 &nbsp;&nbsp;&nbsp; Technical Discussion Forum.<br>
 &nbsp;&nbsp;&nbsp; Automatic Email generations. <br>                                     
 &nbsp;&nbsp;&nbsp; IMGurukul. <br>
@@ -64,15 +64,14 @@ $ skp-md-viewer projects.md
 </div>
 
 <div id="Petprojects" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 650px;">   
-    <span class="list-group-item " style="background-color: #d08770; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center> A few of my pet projects </center></span>
-     &nbsp;&nbsp;&nbsp; IncomeGroupClassification(KNN).<br>
-     &nbsp;&nbsp;&nbsp; Customer Loan Classification(RandomForest and Decision Trees).<br>
-     &nbsp;&nbsp;&nbsp; Gausian Naive Bayes (Admission Predection).<br>
-     &nbsp;&nbsp;&nbsp; SalaryPredections(LinearRegression).<br>
-     &nbsp;&nbsp;&nbsp; StartupProfitCalculation(MultipleLinearRegression).<br>
-     &nbsp;&nbsp;&nbsp; TShirtSizePredection(KNN).<br>
-     &nbsp;&nbsp;&nbsp;  USAHousePricePredections(KFoldCrossValidation).
-    <br>
+    <span class="list-group-item " style="background-color: #baaaa5; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center> A few of my pet projects </center></span>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">Salary Predections(LinearRegression).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">Startup Profit Calculation(MultipleLinearRegression).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">Income Group Classification(KNN).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">T-Shirt Size Predection(KNN).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">Customer Loan Classification(RandomForest and Decision Trees).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">Admission Predections(Gausian Naive Bayes).</a><br>
+     &nbsp;&nbsp;&nbsp; <a class="PetProj" href="" target="_blank">USA House Price Predections(KFoldCrossValidation).</a><br>
 </div>
 
 <span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>

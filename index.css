@@ -5,10 +5,22 @@ body {
 a {
     text-decoration: none !important;
 }
-.contact:hover {
+.contact a:hover {
   color: #A3BE8C;
 }
-.contact {
+.PetProj a:hover {
+  color: #daecbb;
+}
+.Database a:hover {
+  color: #b7e4d3;
+}
+.tools a:hover {
+  color: #lightblue;
+}
+.lang a:hover {
+  color: #A3BE8C;
+}
+.contact, .PetProj, .Database, .tools, .lang {
   color: white;
 }
 

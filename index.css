@@ -9,7 +9,12 @@ a:hover {
   color: #A3BE8C;
 }
 
-.contact, .PetProj, .Database, .tools, .lang {
+.tools a:hover
+{
+    color:#DDD;
+}
+
+.contact, .PetProj, .Database, .tools, .lang, .Proj {
   color: white;
 }
 

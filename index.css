@@ -5,10 +5,16 @@ body {
 a {
     text-decoration: none !important;
 }
-a:hover {
+contact:hover {
   color: #A3BE8C;
 }
 .contact {
+  color: white;
+}
+.PetProj: hover {
+ color: #daecbb
+}
+.PetProj {
   color: white;
 }
 .list-group-item {

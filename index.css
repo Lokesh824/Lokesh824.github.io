@@ -6,10 +6,10 @@ a {
     text-decoration: none !important;
 }
 a:hover {
-  color: white;
+  color: #A3BE8C;
 }
 .contact {
-  color: #A3BE8C;
+  color: white;
 }
 .list-group-item {
     position: relative;

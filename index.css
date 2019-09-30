@@ -23,11 +23,11 @@ a.lang:hover
 }
 a.Proj:hover
 {
-    color:#DDD;
+    color:#daecbb;
 }
 a.PetProj:hover
 {
-    color:#daecbb;
+    color:#baaaa5;
 }
 .contact, .PetProj, .Database, .tools, .lang, .Proj {
   color: white;

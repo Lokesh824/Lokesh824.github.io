@@ -4,27 +4,37 @@ body {
 }
 a {
     text-decoration: none !important;
-    color: white;
 }
 contact:hover {
   color: #A3BE8C;
 }
-PetProj:hover {
- color: #daecbb;
+.contact {
+  color: white;
 }
-Proj:hover{
-color: #daecbb;
+PetProj:hover {
+ color: #daecbb
+}
+.PetProj {
+  color: white;
 }
 Database:hover{
 color: #b7e4d3;
 }
+.Database {
+  color: white;
+}
 tools:hover{
 color: lightblue;
+}
+.tools {
+  color: white;
 }
 lang:hover{
 color: #A3BE8C;
 }
-
+.lang {
+  color: white;
+}
 .list-group-item {
     position: relative;
     display: block;

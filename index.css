@@ -2,6 +2,9 @@ body {
 	background-color: #293846;
 
 }
+a {
+    text-decoration: none !important;
+}
 a:hover {
   color: white;
 }

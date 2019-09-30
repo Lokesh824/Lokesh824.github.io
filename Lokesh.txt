@@ -112,7 +112,7 @@ $ skp-md-viewer contact-me.md
 
 <div id="lang" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 250px;" >
 <span class="list-group-item " style="background-color: #A3BE8C; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Professional </center></span>
-&nbsp;&nbsp;&nbsp; <a class="contact" href="https://github.com/Lokesh824" target="_blank"><i aria-hidden="true" class="fa fa-fw fa-github fa-2x" style="color: white; border-radius: 10%"></i> Github</a>
+&nbsp;&nbsp;&nbsp; <a class="contact" href="https://github.com/Lokesh824" target="_blank"><i aria-hidden="true" class="fa fa-fw fa-github fa-2x" style="color: white; border-radius: 10%"></i> Github</a><br>
 &nbsp;&nbsp;&nbsp; <a class="contact" href="https://www.linkedin.com/in/lokesh-kumar-abb12a104/" target="_blank"><i aria-hidden="true" class="fa fa-fw fa-linkedin fa-2x" style="color: white; border-radius: 10%"></i> Linkedin</a><br>
 </div>
 

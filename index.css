@@ -2,6 +2,12 @@ body {
 	background-color: #293846;
 
 }
+a:hover {
+  color: white;
+}
+.contact {
+  color: #A3BE8C;
+}
 .list-group-item {
     position: relative;
     display: block;

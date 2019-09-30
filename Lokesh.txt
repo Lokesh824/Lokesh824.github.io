@@ -48,7 +48,7 @@ $ skp-md-viewer skills.md
  
 <div id="db" style="border: 1px solid #ddd;border: solid black 0.7px;border-radius: 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);background: #343d46;width: 350px;" >
 <span class="list-group-item " style="background-color: #b7e4d3; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"><center>Database</center></span>
-&nbsp;&nbsp;&nbsp; SQL Server 2012<br>
+&nbsp;&nbsp;&nbsp; <a class="Database" href="" onclick="return false;" target="_blank">SQL Server 2012.</a><br>
 </div>
 
 <span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>

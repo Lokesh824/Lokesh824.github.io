@@ -5,21 +5,10 @@ body {
 a {
     text-decoration: none !important;
 }
-.contact a:hover {
+a:hover {
   color: #A3BE8C;
 }
-.PetProj a:hover {
-  color: #daecbb;
-}
-.Database a:hover {
-  color: #b7e4d3;
-}
-.tools a:hover {
-  color: #lightblue;
-}
-.lang a:hover {
-  color: #A3BE8C;
-}
+
 .contact, .PetProj, .Database, .tools, .lang {
   color: white;
 }

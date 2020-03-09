@@ -12,7 +12,7 @@ awards-and-recognitions.txt
 <span id="a">Dev@Lokesh</span> <span id="b"> ~/welcome </span>
 $ cat about-me.txt
 
-Hi I am Lokesh Kumar. I am an energetic software engineer having 1.4 years of experience in building robust code for next generation applications with a can-do attitude. 
+Hi I am Lokesh Kumar. I am an energetic software engineer having 1.9 years of experience in building robust code for next generation applications with a can-do attitude. 
 I enjoy learning new things and can assimilate new ideas to the problems quickly.
 I am a tech enthusiast and a strong believer of solving any problem in hand with innovation.
 
